@@ -1,0 +1,8 @@
+gt 713
+predictions 697
+matched 639
+box_recall 0.8962
+class_acc_on_matched 0.9718
+joint_recall 0.8710
+joint_precision 0.8910
+thr 0.85

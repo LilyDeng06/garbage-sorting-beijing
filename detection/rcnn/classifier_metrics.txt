@@ -1,0 +1,8 @@
+accuracy 0.9649
+n 713
+epoch 10
+可回收物 precision 0.9716 recall 0.9547 support 287
+有害垃圾 precision 0.9437 recall 0.9504 support 141
+厨余垃圾 precision 0.9799 recall 0.9799 support 149
+其他垃圾 precision 0.9571 recall 0.9853 support 136
+macro_precision 0.9631

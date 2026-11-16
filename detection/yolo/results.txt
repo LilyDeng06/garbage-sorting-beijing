@@ -1,0 +1,2 @@
+garbage4_best.pt：只用原来 2235 张图训出的 YOLOv8s。验证集 mAP50 0.868，mAP50-95 0.606。
+garbage_taco_best.pt：原数据加上 TACO 后续训的 YOLOv8s。验证集 mAP50 0.880，mAP50-95 0.611。
